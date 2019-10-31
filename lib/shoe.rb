@@ -17,11 +17,7 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
 
-def brand=(brand)
-@brand = brand
-  if BRANDS.include? == false
-  BRANDS << brand
-  end
-end
+
+
 
 end
